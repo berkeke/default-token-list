@@ -6,6 +6,7 @@ module.exports = function buildList() {
   const parsed = version.split('.');
   return {
     'name': 'Default List',
+    'logoURI': 'https://raw.githubusercontent.com/octanolabs/shinobi-interface/develop/src/assets/svg/logo_white.svg',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
