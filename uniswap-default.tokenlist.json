@@ -1,6 +1,7 @@
 {
   "name": "Default List",
-  "timestamp": "2021-11-17T15:46:04.188Z",
+  "logoURI": "https://raw.githubusercontent.com/octanolabs/shinobi-interface/develop/src/assets/svg/logo_white.svg",
+  "timestamp": "2021-11-23T21:42:19.364Z",
   "version": {
     "major": 1,
     "minor": 3,
